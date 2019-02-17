@@ -1,3 +1,4 @@
+<config5>
 <!-- test and name the mod in the startup prtogress -->
         <remove xpath="/Successfully_Loaded[@modname='JakesNinja_progression'][@version='1.0.1'][@filename='\Config\progression.xml']" />
 <!--
